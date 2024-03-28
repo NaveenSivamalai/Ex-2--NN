@@ -3,7 +3,7 @@
 <H3>Date</H3>
 <H3>Experiment No. 2 </H3>
 
-# Implementation of Perceptron for Binary Classification
+## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
@@ -138,6 +138,7 @@ plt.show()
 ![image](https://github.com/SASIDEVIvenaram/Ex-2--NN/assets/118707332/30fea50a-8f72-4f50-8c91-1b0e847e30a2)
 ![image](https://github.com/SASIDEVIvenaram/Ex-2--NN/assets/118707332/2dd0d846-3492-49d3-82bb-e9d84262574e)
 ![image](https://github.com/SASIDEVIvenaram/Ex-2--NN/assets/118707332/95aefffb-c5b4-40d8-998e-3f3b36e6ae55)
+
 # RESULT:
  Thus, a single layer perceptron model is implemented using python to classify Iris data set.
 
